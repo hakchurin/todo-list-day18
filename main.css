@@ -1,0 +1,72 @@
+#tasks {
+  background: #446455;
+  text-align: center;
+  margin-top: 5%;
+  margin-right: 6rem;
+  margin-left: 15rem;
+  border-radius: 0.5rem; }
+
+li {
+  border: 2px solid grey;
+  background: #ADC2BA;
+  margin-right: 1rem;
+  font-size: 1.5rem;
+  text-align: center;
+  border-radius: 0.5rem;
+  color: darkslategrey;
+  font-family: tahoma;
+  padding-top: 0.5rem; }
+
+ul {
+  list-style-type: none;
+  padding: 0 auto; }
+
+button {
+  margin: 3px;
+  left: 10%;
+  float: right;
+  margin-top: 0.3rem;
+  background-color: #75BA99;
+  border-radius: 0.5rem;
+  font-weight: 900;
+  color: lavender; }
+  button:hover {
+    background-color: lavender;
+    color: #75BA99; }
+
+.content {
+  margin-top: 1rem; }
+
+#myForm {
+  padding-top: 1rem;
+  font-family: tahoma;
+  font-size: 1.3rem;
+  margin: 0;
+  color: #75BA99;
+  font-weight: bold; }
+
+input[type="submit"] {
+  width: 4.5rem;
+  font-size: 1rem;
+  background-color: #75BA99;
+  border-radius: 0.5rem;
+  color: #2F4F4F;
+  font-weight: 600; }
+  input[type="submit"]:hover {
+    background-color: #75BA99;
+    color: lavender; }
+
+input[type="text"] {
+  width: 10.5rem;
+  font-size: 1rem;
+  background-color: #ADC2BA; }
+
+h1 {
+  text-align: center;
+  padding-top: 4rem;
+  padding-left: 11rem;
+  font-family: tahoma;
+  font-size: 3rem;
+  color: #446455; }
+
+/*# sourceMappingURL=main.css.map */
